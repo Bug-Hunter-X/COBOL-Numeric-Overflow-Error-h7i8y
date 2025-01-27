@@ -1,0 +1,1 @@
+This repository contains examples of numeric overflow errors in COBOL and how to prevent them.  The `bug.cob` file demonstrates the error, while `bugSolution.cob` provides a corrected version.  Proper error handling is crucial for robust COBOL applications.
